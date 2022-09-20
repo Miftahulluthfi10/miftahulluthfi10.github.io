@@ -1092,7 +1092,8 @@ audio {
 	font-size: 40px;
 	text-align: center;
 	color: #BF4136;
-	margin-right : 20px;
+	margin-right : 23px;
+	margin-bottom :10px;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
